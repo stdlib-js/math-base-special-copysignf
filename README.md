@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@deno/mod.js';
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.1.0-deno/mod.js';
 ```
 
 #### copysignf( x, y )
@@ -88,7 +88,7 @@ z = copysignf( -0.0, 1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@deno/mod.js';
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.1.0-deno/mod.js';
 
 var x;
 var y;
