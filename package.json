@@ -42,14 +42,14 @@
   "dependencies": {
     "@stdlib/constants-float32-abs-mask": "^0.2.2",
     "@stdlib/constants-float32-sign-mask": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.0",
+    "@stdlib/math-base-napi-binary": "^0.3.1",
     "@stdlib/number-float32-base-from-word": "^0.2.2",
     "@stdlib/number-float32-base-to-word": "^0.2.2",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/constants-float32-pinf": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
