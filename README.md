@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-copysignf/tags). For example,
+
+```javascript
 import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.2.3-esm/index.mjs';
 ```
 
@@ -94,7 +99,7 @@ z = copysignf( -0.0, 1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.2.3-esm/index.mjs';
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
