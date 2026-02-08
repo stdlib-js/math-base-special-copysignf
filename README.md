@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@esm/index.mjs';
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.2.3-esm/index.mjs';
 ```
 
 #### copysignf( x, y )
@@ -94,7 +94,7 @@ z = copysignf( -0.0, 1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@esm/index.mjs';
+import copysignf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-copysignf@v0.2.3-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
